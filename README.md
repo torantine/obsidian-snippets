@@ -2,6 +2,7 @@
 
 # Table of Contents
 - [Dataview Snippets](#Dataview-Snippets)
+  - [Across Vault Word Count](#Across-Vault-Word-Count)
 
 ## Dataview Snippets
 
@@ -24,3 +25,4 @@ Known Bugs:
 
 ## Templater Snippets
 
+Coming Soon...
