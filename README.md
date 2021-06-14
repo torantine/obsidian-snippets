@@ -8,6 +8,8 @@
 
 ### Across Vault Word Count
 
+<https://github.com/torantine/obsidian-snippets/blob/main/dataviewjs.acrossVaultWordCount-v0.0.11.md>
+
 ![Across Vault Word Count](https://user-images.githubusercontent.com/52270977/121964956-25fec300-cd21-11eb-96fd-d134958d1bc8.gif)
 
 To function properly, this snippet requires MetaEdit.
