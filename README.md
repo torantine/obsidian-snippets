@@ -44,4 +44,4 @@ Changelog
 
 Use this snippet in a templater js template to pop up a suggester with a list of files from a speficified folder. Change the placeholder text "FOLDER/SUBFOLDER/" to the folder path you want to suggest files from. The `inFolderSuggester` const will contain a string with the file chosen by the user.
 
-![suggestFilesFromFolder](https://user-images.githubusercontent.com/52270977/122629531-89b32400-d072-11eb-9cc9-07d94a8058a5.gif)
+<a href="https://user-images.githubusercontent.com/52270977/122629531-89b32400-d072-11eb-9cc9-07d94a8058a5.gif" target="_blank"><img src="https://user-images.githubusercontent.com/52270977/122629531-89b32400-d072-11eb-9cc9-07d94a8058a5.gif" align="left" height="700"></a>
