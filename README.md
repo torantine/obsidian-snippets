@@ -38,6 +38,6 @@ Changelog
 
 ### Suggest Files In Folder 
 
-Use this snippet in a templater js template to pop up a suggester with a list of files from a speficified folder.
+Use this snippet in a templater js template to pop up a suggester with a list of files from a speficified folder. Change the placeholder text "FOLDER/SUBFOLDER/" to the folder path you want to suggest files from. The `inFolderSuggester` const will contain a string with the file chosen by the user.
 
 <https://github.com/torantine/obsidian-snippets/blob/main/templater.suggestFilesInFolder>
