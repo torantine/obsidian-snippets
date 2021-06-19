@@ -1,12 +1,12 @@
 # obsidian-snippets
 
 # Table of Contents
-- [Dataview Snippets](#Dataview-Snippets)
+- [Dataviewjs Snippets](#Dataviewjs-Snippets)
   - [Across Vault Word Count](#Across-Vault-Word-Count)
 - [Templater Snippets](#Templater-Snippets)
   - [Suggest Files In Folder](#Suggest-Files-In-Folder)   
 
-## Dataview Snippets
+## Dataviewjs Snippets
 
 ### Across Vault Word Count
 
