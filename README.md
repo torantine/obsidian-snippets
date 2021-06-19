@@ -36,4 +36,8 @@ Changelog
 
 ## Templater Snippets
 
-Coming Soon...
+### Suggest Files In Folder 
+
+Use this snippet in a templater js template to pop up a suggester with a list of files from a speficified folder.
+
+<https://github.com/torantine/obsidian-snippets/blob/main/templater.suggestFilesInFolder>
