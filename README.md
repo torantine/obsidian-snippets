@@ -3,7 +3,7 @@
 # Table of Contents
 - [Dataviewjs Snippets](#Dataviewjs-Snippets)
   - [Across Vault Word Count](#Across-Vault-Word-Count)
-  - [Tasks With Outlinks From Frontmatter]
+  - [Tasks With Outlinks From Frontmatter](#Tasks-With-Outlinks-From-Frontmatter)
 - [Templater Snippets](#Templater-Snippets)
   - [Suggest Files In Folder](#Suggest-Files-In-Folder)   
 
@@ -36,6 +36,10 @@ Changelog
 - v 0.0.5 an empty tagToSearchFor now returns all files
 - v 0.0.6 added in modified date column and the ability to export to inline fields
 - v 0.0.11 added in dropdown menus, search by modified date, export sums to inline fields, dependency check for MetaEdit plugin
+
+### Tasks Containing Outlinks From Frontmatter
+
+https://github.com/torantine/obsidian-snippets/blob/main/tasksContainingTargetOutlinks.md
 
 ## Templater Snippets
 
