@@ -3,6 +3,7 @@
 # Table of Contents
 - [Dataviewjs Snippets](#Dataviewjs-Snippets)
   - [Across Vault Word Count](#Across-Vault-Word-Count)
+  - [Tasks With Outlinks From Frontmatter]
 - [Templater Snippets](#Templater-Snippets)
   - [Suggest Files In Folder](#Suggest-Files-In-Folder)   
 
